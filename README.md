@@ -21,7 +21,7 @@ It could also involve creating visualizations to better understand the data.
 Remember, the goal of this project is to use your knowledge of statistics and Excel to draw meaningful conclusions about the company's hiring process. 
 Your insights could potentially help the company improve its hiring process and make better hiring decisions in the future.
 
-!(Hiring process Analytics)[Hiring-Process-Analytics.XLSX](https://github.com/MadisettySurekha/Instagram-User-Analytics/new/main?filename=README.md)
+!(Hiring process Analytics)[Hiring-Process-Analytics.XLSX](https://github.com/MadisettySurekha/Hiring-process-Analytics/edit/main/README.md)
 
 ## Tools
 - Excel - Data cleaning
